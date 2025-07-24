@@ -1,0 +1,21 @@
+{
+  "name": "alphabase-voicechannelsystem",
+  "version": "1.0.0",
+  "description": "AlphaBase Database System Project",
+  "main": "alpha.js",
+  "scripts": {
+    "test": "node alpha.js"
+  },
+  "keywords": [
+    "alphabase",
+    "voice",
+    "channel",
+    "system"
+  ],
+  "author": "ByAlpha",
+  "license": "MIT",
+  "dependencies": {
+    "alphabase": "^1.1.3",
+    "discord.js": "^14.21.0"
+  }
+}

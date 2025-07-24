@@ -1,0 +1,10 @@
+{
+  "DISCORD_TOKEN": "BOT TOKEN",
+  "CLIENT_ID": "SERVER ID",
+  "BOT_STATUS": "dnd",
+  "BOT_ACTIVITY": {
+    "name": "Alpha System",
+    "type": "PLAYING"
+  },
+  "language": "tr"
+}
